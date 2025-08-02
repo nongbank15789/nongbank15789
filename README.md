@@ -9,9 +9,17 @@
 
 - 📍 I'm based in **Chiang Mai**, Thailand.
 - 👨‍💻 I'm a student who is passionate about coding and learning new things.
-- 🚀 I'm currently working on a project about an **Application for marking points to define the transmission zone of an epidemic**.
 - 🌱 I'm currently learning **Dart, JavaScript, and SQL**.
 - 📫 You can reach me on my social media linked below.
+
+---
+
+### 🚀 My Projects
+
+- **Application for marking points to define the transmission zone of an epidemic**
+  - [View on GitHub](http://github.com/nongbank15789/Application_for_marking_points_to_define_the_transmission_zone_of_an_epidemic)
+- **Line Bot**
+  - [View on GitHub](https://github.com/nongbank15789/linebot)
 
 ---
 
