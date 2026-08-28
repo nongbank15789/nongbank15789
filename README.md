@@ -8,8 +8,8 @@
 ### 💻 About Me
 
 - 📍 I'm based in **Chiang Mai**, Thailand.
-- 👨‍💻 I'm a student who is passionate about coding and learning new things.
-- 🌱 I'm currently learning **Dart, JavaScript, and SQL**.
+- 👨‍💻 I'm a passionate new grad software engineer dedicated to crafting quality code and continuously leveling up my skills.
+- 🌱 I'm currently learning **Dart, JavaScript, TypeScript, Java, and SQL**.
 - 📫 You can reach me on my social media linked below.
 
 ---
