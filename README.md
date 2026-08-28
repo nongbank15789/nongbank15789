@@ -20,7 +20,8 @@
   - [View on GitHub](http://github.com/nongbank15789/Application_for_marking_points_to_define_the_transmission_zone_of_an_epidemic)
 - **Line Bot**
   - [View on GitHub](https://github.com/nongbank15789/linebot)
-
+- **Task manager And_Weather Application**
+  - [View on GitHub](https://github.com/nongbank15789/Task_manager_And_Weather_Application)
 ---
 
 ### 🛠️ Skills and Technologies
